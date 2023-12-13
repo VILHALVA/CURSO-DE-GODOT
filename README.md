@@ -35,3 +35,30 @@ Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
 
 8. Exportação para várias plataformas: Você pode exportar seus jogos Godot para várias plataformas, incluindo PC, consoles, dispositivos móveis e web.
 
+# CARACTERÍSTICAS:
+## POSITIVAS:
+- **Código Aberto:** Godot é uma engine de jogo de código aberto, permitindo acesso ao código-fonte e personalização profunda.
+
+- **Multiplataforma:** Suporta exportação para diversas plataformas, incluindo Windows, macOS, Linux, Android, iOS, HTML5, e mais, possibilitando ampla distribuição dos jogos.
+
+- **Suporte a 2D e 3D:** Oferece suporte tanto para o desenvolvimento de jogos 2D quanto 3D, proporcionando flexibilidade em diversos tipos de projetos.
+
+- **Node System:** Utiliza um sistema de nós (nodes) para compor cenas, facilitando a organização e hierarquia de elementos do jogo.
+
+- **Linguagem de Script Própria:** Godot utiliza uma linguagem de script própria chamada GDScript, fácil de aprender e eficiente para o desenvolvimento de jogos.
+
+- **Editor Visual Poderoso:** Possui um editor visual poderoso que oferece recursos como edição em tempo real e ferramentas de depuração.
+
+## NEGATIVAS:
+- **Curva de Aprendizado:** Para iniciantes, pode haver uma curva de aprendizado, especialmente ao se familiarizar com o sistema de nós e a linguagem de script GDScript.
+
+- **Menos Recursos Integrados:** Comparado a algumas outras engines, pode ter menos recursos integrados, exigindo, em alguns casos, a implementação manual de funcionalidades avançadas.
+
+- **Comunidade Menos Vasta:** Embora seja ativa, a comunidade Godot pode ser menor em comparação com algumas engines mais estabelecidas, o que pode impactar a disponibilidade de recursos e tutoriais.
+
+- **Menos Suporte Corporativo:** Não possui o mesmo suporte corporativo que algumas engines populares, o que pode influenciar a rapidez nas correções de bugs e implementação de novos recursos.
+
+- **Menos Ferramentas Visuais de Design:** Algumas engines podem oferecer ferramentas visuais mais avançadas para design de níveis e personagens em comparação com o Godot.
+
+- **Poucas Soluções Prontas:** Em comparação com engines mais antigas, pode haver menos soluções prontas e módulos de terceiros disponíveis para integração.
+
