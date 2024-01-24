@@ -2,17 +2,9 @@
 👨‍⚖️GODOT É UMA ENGINE DE CÓDIGO ABERTO E GRATUITO QUE PERMITE AOS DESENVOLVEDORES CRIAR JOGOS PARA VÁRIAS PLATAFORMAS, COMO PC, CONSOLES E DISPOSITIVOS MÓVEIS. 
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Godot)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.godotengine.org/en/stable/) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=google)](https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/index.html)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL-oJEh-N3A3SOPWuMuulbnJv0BFgvBnVG&si=QI5hJzt1a3lHyZ0z)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 Godot é um ambiente de desenvolvimento de jogos de código aberto e uma engine de criação de jogos que permite aos desenvolvedores criar jogos para várias plataformas, incluindo Windows, macOS, Linux, Android, iOS e muito mais. Godot é conhecido por sua facilidade de uso, flexibilidade e recursos poderosos. Além disso, é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo sem custos e contribuir para o seu desenvolvimento.
