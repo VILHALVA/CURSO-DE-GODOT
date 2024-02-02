@@ -1,12 +1,9 @@
 # CURSO DE GODOT
 👨‍⚖️GODOT É UMA ENGINE DE CÓDIGO ABERTO E GRATUITO QUE PERMITE AOS DESENVOLVEDORES CRIAR JOGOS PARA VÁRIAS PLATAFORMAS, COMO PC, CONSOLES E DISPOSITIVOS MÓVEIS. 
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.godotengine.org/en/stable/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=google)](https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/index.html)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL-oJEh-N3A3SOPWuMuulbnJv0BFgvBnVG&si=QI5hJzt1a3lHyZ0z)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 Godot é um ambiente de desenvolvimento de jogos de código aberto e uma engine de criação de jogos que permite aos desenvolvedores criar jogos para várias plataformas, incluindo Windows, macOS, Linux, Android, iOS e muito mais. Godot é conhecido por sua facilidade de uso, flexibilidade e recursos poderosos. Além disso, é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo sem custos e contribuir para o seu desenvolvimento.
 
 Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
@@ -27,8 +24,8 @@ Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
 
 8. Exportação para várias plataformas: Você pode exportar seus jogos Godot para várias plataformas, incluindo PC, consoles, dispositivos móveis e web.
 
-# CARACTERÍSTICAS:
-## POSITIVAS:
+## CARACTERÍSTICAS:
+### POSITIVAS:
 - **Código Aberto:** Godot é uma engine de jogo de código aberto, permitindo acesso ao código-fonte e personalização profunda.
 
 - **Multiplataforma:** Suporta exportação para diversas plataformas, incluindo Windows, macOS, Linux, Android, iOS, HTML5, e mais, possibilitando ampla distribuição dos jogos.
@@ -41,7 +38,7 @@ Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
 
 - **Editor Visual Poderoso:** Possui um editor visual poderoso que oferece recursos como edição em tempo real e ferramentas de depuração.
 
-## NEGATIVAS:
+### NEGATIVAS:
 - **Curva de Aprendizado:** Para iniciantes, pode haver uma curva de aprendizado, especialmente ao se familiarizar com o sistema de nós e a linguagem de script GDScript.
 
 - **Menos Recursos Integrados:** Comparado a algumas outras engines, pode ter menos recursos integrados, exigindo, em alguns casos, a implementação manual de funcionalidades avançadas.
@@ -53,4 +50,10 @@ Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
 - **Menos Ferramentas Visuais de Design:** Algumas engines podem oferecer ferramentas visuais mais avançadas para design de níveis e personagens em comparação com o Godot.
 
 - **Poucas Soluções Prontas:** Em comparação com engines mais antigas, pode haver menos soluções prontas e módulos de terceiros disponíveis para integração.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CLÉCIO ESPINDOLA GAMEDEV"](https://youtube.com/playlist?list=PL-oJEh-N3A3SOPWuMuulbnJv0BFgvBnVG&si=QI5hJzt1a3lHyZ0z)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://docs.godotengine.org/en/stable/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/index.html)
 
