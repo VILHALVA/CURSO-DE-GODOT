@@ -56,4 +56,4 @@ Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.godotengine.org/en/stable/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/index.html)
-
+- [VEJA A SINTAXE](./SINTAXE.md)
