@@ -55,6 +55,6 @@ Aqui estão alguns dos principais recursos e conceitos associados ao Godot:
 - [CURSO CRIADO PELO "CLÉCIO ESPINDOLA GAMEDEV"](https://youtube.com/playlist?list=PL-oJEh-N3A3SOPWuMuulbnJv0BFgvBnVG&si=QI5hJzt1a3lHyZ0z)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.godotengine.org/en/stable/)
-- [LINGUAGEM DE PROGRAMAÇÃO](https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/index.html)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-GDSCRIPT)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:GODOT)
