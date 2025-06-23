@@ -1,4 +1,36 @@
 # INSTRUÇÕES (GENERICAS)
+
+---
+## INDICE
+- [01) INTRODUÇÃO, INSTALAÇÃO E CONFIGURAÇÃO](./README.md#01-introdução-instalação-e-configuração)
+- [02) TILEMAPS](./README.md#02-tilemaps)
+- [03) CAMADAS, MÁSCARAS E CÂMERA](./README.md#03-camadas-máscaras-e-câmera)
+- [04) ANIMAÇÕES INICIAIS](./README.md#04-animações-iniciais)
+- [05) PARALLAX LAYERS](./README.md#05-parallax-layers)
+- [06) CRIANDO PLATAFORMAS MÓVEIS](./README.md#06-criando-plataformas-móveis)
+- [07) CRIANDO ITENS COLETÁVEIS](./README.md#07-criando-itens-coletáveis)
+- [08) CRIANDO INIMIGO TIPO PATRULHA](./README.md#08-criando-inimigo-tipo-patrulha)
+- [09) CAUSANDO E SOFRENDO DANOS (HITBOX E HURTBOX)](./README.md#09-causando-e-sofrendo-danos-hitbox-e-hurtbox)
+- [10) EFEITO DE KNOCKBACK](./README.md#10-efeito-de-knockback)
+- [11) CONTROLES MOBILE](./README.md#11-controles-mobile)
+- [12) GERENCIAR OS STATES ANIMATIONS](./README.md#12-gerenciar-os-states-animations)
+- [13) COMO FAZER CAIXAS QUEBRÁVEIS?](./README.md#13-como-fazer-caixas-quebráveis)
+- [14) SPAWNANDO MOEDAS DAS CAIXAS QUEBRÁVEIS](./README.md#14-spawnando-moedas-das-caixas-quebráveis)
+- [15) CRIANDO PLATAFORMAS QUE CAEM](./README.md#15-criando-plataformas-que-caem)
+- [16) CRIANDO MENSAGENS POP UPS](./README.md#16-criando-mensagens-pop-ups)
+- [17) CRIANDO UMA ÁREA DE ESPINHOS](./README.md#17-criando-uma-área-de-espinhos)
+- [18) HUD DO GAME (CONTADOR DE MOEDAS-PONTOS)](./README.md#18-hud-do-game-contador-de-moedas-pontos)
+- [19) HUD DO GAME (CONTADOR DE TEMPO)](./README.md#19-hud-do-game-contador-de-tempo)
+- [20) TILEMAP ANIMADO - INIMIGO COM PATH2D](./README.md#20-tilemap-animado---inimigo-com-path2d)
+- [21) INIMIGO DUPLO - CONCEITO BÁSICO DE CLASSE](./README.md#21-inimigo-duplo---conceito-básico-de-classe)
+- [22) CHECKPOINT E RESPAWN DO PLAYER](./README.md#22-checkpoint-e-respawn-do-player)
+- [23) COMO FAZER UM MENU DE PAUSE](./README.md#23-como-fazer-um-menu-de-pause)
+- [24) COMO MUDAR DE CENA?](./README.md#24-como-mudar-de-cena)
+- [25) MÚSICA E EFEITOS SONOROS COM AUDIOSTREAMPLAYER](./README.md#25-música-e-efeitos-sonoros-com-audiostreamplayer)
+- [26) TITLE SCREEN (COMO FAZER A TELA INICIAL)](./README.md#26-title-screen-como-fazer-a-tela-inicial)
+- [27) EXTRA: DIRETÓRIOS E EXPORTAÇÃO](./README.md#27-extra-diretórios-e-exportação)
+---
+
 ## 01) # INTRODUÇÃO, INSTALAÇÃO E CONFIGURAÇÃO
 **Introdução ao Godot:**
 
